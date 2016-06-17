@@ -1,7 +1,7 @@
 # computationalphysics_N2012301020102
-==============
+
 wuji
----------------
+
 * 第一次[homework]
 * 第二次[homework]
 * 第三次[homework]
